@@ -217,3 +217,6 @@ touch [filename]
 vi [filename]
 ```
 ![image](https://github.com/user-attachments/assets/77ca13f3-45d7-4da6-88af-cdd2e280f41b)
+
+### Result:
+Thus, various Linux commands were executed successfully in Kali Linux virtual machine.
